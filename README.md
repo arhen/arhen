@@ -14,7 +14,6 @@
   Telegram
   </a>
 </p>
- -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=arhen&show_icons=true&hide_border=true"/>
 
 ### About Me
@@ -30,9 +29,8 @@
 
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/vs/) [![VS Code](https://img.shields.io/badge/-VS_Code-%23007ACC?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/arhen) [![sb2]
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/arhen)
 
----
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
