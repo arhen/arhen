@@ -24,6 +24,8 @@
 - Recently learning **Go Language**
 - Currently working on [**Upana Studio**](https://upanastudio.com/)
 
+![](https://komarev.com/ghpvc/?username=arhen&color=blueviolet)
+
 ### Languages, Tools and Platforms
 ![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=C-Sharp) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB)
 
@@ -34,9 +36,9 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-C#       6 hrs 39 mins   █████████████░░░░░░░░░░░░   51.53 % 
-CSHTML   5 hrs 56 mins   ███████████░░░░░░░░░░░░░░   45.99 % 
-HTML     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+C#       6 hrs 39 mins   █████████████░░░░░░░░░░░░   51.53 %
+CSHTML   5 hrs 56 mins   ███████████░░░░░░░░░░░░░░   45.99 %
+HTML     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 Other    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 <!--END_SECTION:waka-->
