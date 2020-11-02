@@ -36,7 +36,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-PHP      6 mins          ██████████████████████▓░░   90.29 % 
+
 ```
 <!--END_SECTION:waka-->
 
