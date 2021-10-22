@@ -14,7 +14,7 @@
   Telegram
   </a>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=arhen&show_icons=true&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=arhen&show_icons=true&hide_border=true&count_private=true&&theme=radical&show_owner=false&langs_count=10"/>
 
 ### About Me
 
