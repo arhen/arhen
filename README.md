@@ -19,8 +19,8 @@
 ### About Me
 
 - An Idiomatic and lovable Programmer :sunglasses:
-- Specified using **PHP, C#, Go** 
-- Now Learning **Ruby**
+- Specified using **PHP, Ruby, C#, Go** 
+- Now Learning **Rust**
 - Technopreneur, Community Organizer, Gamers
 
 ![](https://komarev.com/ghpvc/?username=arhen&color=blueviolet)
