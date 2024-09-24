@@ -19,7 +19,7 @@
 ### About Me
 
 - An Idiomatic Programmer :sunglasses:
-- Specified using **PHP, Ruby, C#, Go** 
+- Specified using **PHP, Python, C#, Go** 
 - Now Learning **AI Stuff**
 - Technopreneur, Community Organizer, Gamers
 
